@@ -98,7 +98,7 @@ aside h2 {
 }
 
 .profile-image {
-  background-image: url("images/moongchi.JPG");
+  background-image: url("../images/moongchi.JPG");
   background-size: 100%;
   background-position: center 100%;
   width: var(--aside-width);
